@@ -2,6 +2,11 @@
 This is a showcase of a simple wordpress [stop gap website](https://onlinemexicancom.wpcomstaging.com/) I built for [La Grassa Pastificio](https://lagrassaitaliano.com/) 
 while they were waiting on a larger marketing firm to complete their multi month design / media collection process. 
 
+![lgrassa-desktop-480](https://user-images.githubusercontent.com/13119103/211199303-a0ea6c3f-d7c1-4873-8f0f-06558452187b.gif)
+
+![Jan-08-2023 08-48-06](https://user-images.githubusercontent.com/13119103/211199569-c4366ef3-e1d9-41ce-84f0-67f72c1dc109.gif)
+
+
 ## Project Description and Reflection
 This page was created to be a **Temporary** solution to address this small business' problem. 
 
@@ -17,3 +22,5 @@ In the mean time I created and helped them deploy a website that met their busin
 2. Call to Action link to 3rd party Table reservation system 
 3. Simple Color Scheme
 4. Responsive Dinner Menu
+
+
